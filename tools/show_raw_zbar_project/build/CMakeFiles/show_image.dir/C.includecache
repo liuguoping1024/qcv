@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guoping/qcv/tools/show_raw_zbar_project/raw_image.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+raw_image.h
+/home/guoping/qcv/tools/show_raw_zbar_project/raw_image.h
+
+/home/guoping/qcv/tools/show_raw_zbar_project/raw_image.h
+stdlib.h
+-
+stdint.h
+-
+

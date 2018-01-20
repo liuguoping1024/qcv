@@ -1,0 +1,4 @@
+/home/guoping/qcv/tools/show_raw_zbar_project/build/CMakeFiles/rebuild_cache.dir
+/home/guoping/qcv/tools/show_raw_zbar_project/build/CMakeFiles/edit_cache.dir
+/home/guoping/qcv/tools/show_raw_zbar_project/build/CMakeFiles/show_image.dir
+/home/guoping/qcv/tools/show_raw_zbar_project/build/CMakeFiles/libzbar.dir

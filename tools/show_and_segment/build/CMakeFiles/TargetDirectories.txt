@@ -1,0 +1,3 @@
+/home/guoping/qcv/tools/show_and_segment/build/CMakeFiles/rebuild_cache.dir
+/home/guoping/qcv/tools/show_and_segment/build/CMakeFiles/edit_cache.dir
+/home/guoping/qcv/tools/show_and_segment/build/CMakeFiles/show_image.dir
